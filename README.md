@@ -62,12 +62,8 @@ Or simply browse the files and documentation.
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript
-- React / Vue / Angular (specify your stack)
-- Node.js / Express
-- Other relevant libraries and frameworks
+- HTML, CSS
 - [Optional] Deployment: Netlify, Vercel, GitHub Pages
-
 ## Contact
 
 Have questions, feedback, or collaboration ideas? Reach out to me:
