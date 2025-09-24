@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio repository! Here you’ll discover my journey as a developer, including featured projects, skills, achievements, and more. Explore, interact, and connect with me!
 
-![Portfolio Banner]([https://rodah-chepkorir.mgx.world/banner.png](https://mgx.dev/app/e0e467a2f4284aa08a30ce8f95f2bfe3)) <!-- Replace with your actual banner if available -->
+![Portfolio Banner]([https://mgx.dev/app/e0e467a2f4284aa08a30ce8f95f2bfe3] <!-- Replace with your actual banner if available -->
 
 ---
 
