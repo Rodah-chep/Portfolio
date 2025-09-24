@@ -1,77 +1,93 @@
-# Portfolio Repository
-Welcome to my portfolio repository! This project showcases my skills, projects, and achievements as a developer. You’ll find code samples, web apps, case studies, and documentation that reflect my expertise and interests.
+# 🚀 Rodah Chepkorir – Portfolio
 
-## Table of Contents
+Welcome to my professional portfolio repository! Here you’ll discover my journey as a developer, including featured projects, skills, achievements, and more. Explore, interact, and connect with me!
 
-- [About](#about)
-- [Features](#features)
-- [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Contact](#contact)
-
-## About
-
-This repository serves as my digital portfolio. It contains projects I’ve worked on, contributions to open source, and demonstrations of my technical abilities. The goal is to provide a comprehensive view of my development experience and creativity.
-
-## Features
-
-- Responsive and modern design
-- Project showcase with descriptions and links
-- Skills and technologies overview
-- Downloadable resume (if available)
-- Contact form or information
-
-## Projects
-
-Explore the `/projects` folder or visit the deployed site to see:
-
-- Web applications
-- APIs and backends
-- UI/UX designs
-- Data analysis scripts
-- Open source contributions
-
-Each project includes:
-- A summary
-- Screenshots or demos
-- Technologies used
-- Links to live demos (where available)
-
-## Getting Started
-
-To view the portfolio locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
-   cd portfolio
-   ```
-
-2. **Install dependencies (if applicable):**
-   ```bash
-   npm install
-   ```
-
-3. **Run locally:**
-   ```bash
-   npm start
-   ```
-
-Or simply browse the files and documentation.
-
-## Technologies Used
-
-- HTML, CSS
-- [Optional] Deployment: Netlify, Vercel, GitHub Pages
-## Contact
-
-Have questions, feedback, or collaboration ideas? Reach out to me:
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+![Portfolio Banner](https://rodah-chepkorir.mgx.world/banner.png) <!-- Replace with your actual banner if available -->
 
 ---
 
-Thank you for visiting my portfolio! Feel free to explore, fork, or reach out.
+## 🌐 Live Portfolio
+
+👉 **[Visit My Interactive Portfolio](https://rodah-chepkorir.mgx.world)**
+
+Experience my work, discover case studies, and interact directly via my website.
+
+---
+
+## 📋 Table of Contents
+
+- [About Me](#about-me)
+- [Featured Projects](#featured-projects)
+- [Skills & Technologies](#skills--technologies)
+- [How to Explore Locally](#how-to-explore-locally)
+- [Contact & Connect](#contact--connect)
+- [Feedback & Contributions](#feedback--contributions)
+
+---
+
+## 👩‍💻 About Me
+
+I’m Rodah Chepkorir, a passionate developer driven by curiosity and creativity. My portfolio showcases web applications, APIs, UI/UX designs, and more. Dive into my projects, learn about my approach, and see real-world results.
+
+---
+
+## 🚩 Featured Projects
+
+Explore the [`projects`](./projects) directory or view live demos on my [portfolio site](https://rodah-chepkorir.mgx.world).
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Care Connect** | Healthcare app for easy access to care providers | React, Node.js, MongoDB | [Demo](#) |
+| **Baddie App** | Social platform for connecting and sharing | Flutter, Firebase | [Demo](#) |
+| **Ubuntu Requests** | Workflow automation tool | Python, Flask | [Demo](#) |
+
+<details>
+  <summary>See More Projects</summary>
+  - Data analysis scripts
+  - Open source contributions
+  - UI/UX prototypes
+</details>
+
+---
+
+## 💡 Skills & Technologies
+
+- **Languages:** Python, JavaScript, Dart
+- **Frameworks:** React, Flask, Flutter
+- **DevOps/Deployment:** Netlify, Vercel, GitHub Pages
+- **Design:** Figma, Adobe XD
+
+---
+
+## 🛠️ How to Explore Locally
+
+```bash
+git clone https://github.com/Rodah-chep/Portfolio.git
+cd Portfolio
+# Install dependencies if the project requires
+npm install
+# Start the local server
+npm start
+```
+
+Or simply browse this repository and the documentation.
+
+---
+
+## 📬 Contact & Connect
+
+- **Portfolio:** [rodah-chepkorir.mgx.world](https://rodah-chepkorir.mgx.world)
+- **Email:** chepkorirrodah36@gmail.com
+- **LinkedIn:** [Rodah Chepkorir](https://linkedin.com/in/rodah-chepkorir)
+- **Twitter/X:** [@rodahchepkorir](https://twitter.com/rodahchepkorir)
+
+---
+
+## 💬 Feedback & Contributions
+
+Questions, feedback, or collaboration ideas? Feel free to open an [issue](https://github.com/Rodah-chep/Portfolio/issues) or reach out via the contact details above.
+
+---
+
+Thank you for visiting my portfolio!  
+⭐️ Star this repo to support and stay updated.
